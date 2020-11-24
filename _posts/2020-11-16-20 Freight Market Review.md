@@ -3,8 +3,8 @@ layout: post
 title:  "2020 Nov 16-20 Freight Market Review"
 date:   2020-11-20 08:43:59
 author: Ashley Tang
-categories: 
-tags: lorem ipsum
+categories: Financial
+tags: market price
 cover:  "/assets/ChinaShips.jpg"
 ---
 
