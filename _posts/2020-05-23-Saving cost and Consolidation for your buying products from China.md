@@ -55,6 +55,4 @@ Wish you have easy and happy shipping.
 
 Your Shipping Advisor
 
-### Changelog
-- 20200505 10:00 - 11:00  first draft
 
